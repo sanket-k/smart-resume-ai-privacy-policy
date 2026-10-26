@@ -117,5 +117,4 @@ If we make material changes to how the extension handles data or introduces new 
 ## 8. Concrete Support & Contact Information
 
 For any inquiries, requests, please contact me through:
-- **Policy URL:** [https://sanket-k.github.io/smart-resume/PRIVACY_POLICY.html](https://sanket-k.github.io/smart-resume/PRIVACY_POLICY.html)
 - **Email:** [sanket0249@gmail.com](mailto:sanket0249@gmail.com)
